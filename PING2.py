@@ -4,7 +4,6 @@ from ctypes import *
 import argparse
 import sys
 import time
-import random
 
 
 class ip_h(Structure):
